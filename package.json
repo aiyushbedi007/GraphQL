@@ -20,7 +20,7 @@
   "homepage": "https://github.com/iamshaunjp/graphql-crash-course#readme",
   "type": "module",
   "dependencies": {
-    "@apollo/server": "^4.7.3",
+    "@apollo/server": "^4.9.3",
     "graphql": "^16.6.0"
   }
 }
